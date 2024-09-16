@@ -111,13 +111,13 @@ O projeto inclui imagens explicativas que mostram as etapas do processo de confi
    ![Consulta de Mecânicos em Equipes Diferentes:](img/Consulta_mecanicos_equipes_diferentes.PNG)
 
 6. **Consulta de Maiores Ordens de Serviço:**:
-   ![Consulta de Maiores Ordens de Serviço::](img/Consulta_ordens_maioresntes.PNG)
+   ![Consulta de Maiores Ordens de Serviço::](img/Consulta_ordens_maiores.PNG)
 
 7. **Consulta de Ordens de Serviço por Veículo e Cliente:**:
-   ![Consulta de Ordens de Serviço por Veículo e Cliente:](img/Consulta_ordens_servicos_veiculo_clientetes.PNG)
+   ![Consulta de Ordens de Serviço por Veículo e Cliente:](img/Consulta_ordens_servicos_veiculo_cliente.PNG)
 
 8. **Verificação de Existência do Banco de Dados no MySQL:**:
-   ![Verificação de Existência do Banco de Dados no MySQL: ](img/Verificar_se_BD_Existe_MySQL_Atraves_MySQLentes.PNG)
+   ![Verificação de Existência do Banco de Dados no MySQL: ](img/Verificar_se_BD_Existe_MySQL_Atraves_MySQL.PNG)
 
 Essas imagens e outras demonstram a execução correta dos passos do projeto e podem ser encontradas na pasta `img` do repositório.
 
